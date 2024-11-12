@@ -1,0 +1,60 @@
+@media (max-width:992px) {
+    h1{
+        font-size: 35px;
+        font-weight: 700;
+        line-height: 1;
+        color: var(--maincolor);
+      }
+      h2{
+        font-size: 25px;
+        font-weight: 700;
+        color: var(--textcolor);
+      }
+      h3{
+        font-size: 20px;
+        font-weight: 700;
+       color: var(--textcolor);
+      }
+      h4{
+        font-size: 18px;
+        font-weight: 700;
+       color: var(--textcolor);
+      }
+      p{
+        font-size: 14px;
+        font-weight: 400;
+       color: var(--textcolor2);
+      }
+      #section_heading {
+        padding-top: 50px;
+      }
+     
+  /* =======================
+       navbar start
+===================== */
+
+      .contact_btn .btn1{
+        padding: 8px 15px;
+         font-size: 16px;
+         font-weight: 500;
+     }
+    
+     /* =======================
+       navbar end
+===================== */
+     /* =======================
+       banner start
+===================== */
+#banner{
+    padding: 50px 0;
+}
+
+.get_btn .btn1{
+    padding: 8px 15px;
+     font-size: 16px;
+     font-weight: 500;
+ }
+     /* =======================
+       banner end
+===================== */
+}
